@@ -16,16 +16,16 @@
 
 ---
 ```
-╻ ╻╻ ╻┏━┓╺┳╸   ┏━┓┏┳┓   ╻┏━┓
-┃╻┃┣━┫┣━┫ ┃    ┣━┫┃┃┃   ┃ ╺┛
-┗┻┛╹ ╹╹ ╹ ╹    ╹ ╹╹ ╹   ╹ ╹ 
+╦ ╦┬ ┬┌─┐┌┬┐  ┌─┐┌┬┐  ╦┌─┐
+║║║├─┤├─┤ │   ├─┤│││  ║ ┌┘
+╚╩╝┴ ┴┴ ┴ ┴   ┴ ┴┴ ┴  ╩ o 
 ```
 I'm a computer science student. Also a human. I think.
 
 ```
-┏━┓╻┏ ╻╻  ╻  ┏━┓
-┗━┓┣┻┓┃┃  ┃  ┗━┓
-┗━┛╹ ╹╹┗━╸┗━╸┗━┛
+╔═╗┬┌─┬┬  ┬  ┌─┐
+╚═╗├┴┐││  │  └─┐
+╚═╝┴ ┴┴┴─┘┴─┘└─┘
 ```
 Programming is how I get ｈｉｇｈ.  
 And as of <code>${today}</code>, I know
@@ -37,16 +37,16 @@ And as of <code>${today}</code>, I know
 I daily drive <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Heckert_GNU_white.svg" alt="GNU" height="30"> <em>GNU</em> Linux  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Tux Penguin" height="30"/> (not archbtw), so I have some experience with it.   
 And since I'm here, I know git too.
 ```
-┏━┓┏━┓┏━╸╻┏━┓╻  ┏━┓
-┗━┓┃ ┃┃  ┃┣━┫┃  ┗━┓
-┗━┛┗━┛┗━╸╹╹ ╹┗━╸┗━┛
+╔═╗┌─┐┌─┐┬┌─┐┬  ┌─┐
+╚═╗│ ││  │├─┤│  └─┐
+╚═╝└─┘└─┘┴┴ ┴┴─┘└─┘
 ```
 @fgoo:matrix.org. That's all ⁠^⁠_^
 
 ```
-┏━┓╺┳╸╻ ╻┏━╸┏━╸   ╻   ╻ ╻┏━┓╻ ╻┏━╸   ┏┳┓┏━┓╺┳┓┏━╸
-┗━┓ ┃ ┃ ┃┣╸ ┣╸    ┃   ┣━┫┣━┫┃┏┛┣╸    ┃┃┃┣━┫ ┃┃┣╸ 
-┗━┛ ╹ ┗━┛╹  ╹     ╹   ╹ ╹╹ ╹┗┛ ┗━╸   ╹ ╹╹ ╹╺┻┛┗━╸
+╔═╗┌┬┐┬ ┬┌─┐┌─┐  ╦  ┬ ┬┌─┐┬  ┬┌─┐  ╔╦╗┌─┐┌┬┐┌─┐
+╚═╗ │ │ │├┤ ├┤   ║  ├─┤├─┤└┐┌┘├┤   ║║║├─┤ ││├┤ 
+╚═╝ ┴ └─┘└  └    ╩  ┴ ┴┴ ┴ └┘ └─┘  ╩ ╩┴ ┴─┴┘└─┘
 ```
 Uhh better to check my [portfolio website](https://futuristicgoo.github.io/) instead.
 
